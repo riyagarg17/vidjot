@@ -1,0 +1,22 @@
+
+.login{
+
+    max-width: 50%;
+    color: black;
+    width: 50%;
+    position: absolute;
+    left: 20%;
+}
+
+#login-btn{
+
+    position: absolute;
+    left: 40%;
+}
+
+.jumbotron{
+
+    padding-top: 0;
+    width: 35%;
+    margin-left: 10%;
+}

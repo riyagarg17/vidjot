@@ -1,0 +1,25 @@
+.fa-video{
+
+    color: white;
+    font-size: 28px;
+    padding-right: 10px;
+}
+
+body{
+
+    background-image: url(computers.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+div .dropdown{
+
+    margin-right: 40px;
+}
+
+.dropdown-item{
+
+    width:200px;
+}

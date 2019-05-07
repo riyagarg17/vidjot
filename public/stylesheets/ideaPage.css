@@ -1,0 +1,28 @@
+.fa-edit{
+
+    color: white;
+    font-size: 35px;
+}
+
+h3{
+
+    color: white;
+}
+
+p.lead{
+
+    color: white;
+}
+
+.fa-plus-circle{
+
+    color: rgb(87, 211, 62);
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.fa-plus-circle:hover{
+
+    color: rgb(22, 138, 11);
+    text-shadow: 0px 1px 0px #afa4a4;
+}
